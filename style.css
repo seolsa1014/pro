@@ -1,0 +1,23 @@
+  .blue_bold{
+   color : blue;
+   font-weight: bold;
+   font-style:normal;
+   font-size: 20;
+   
+}
+ .bold_pur{
+
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20;
+    
+}
+
+.head{
+   color: black;
+   font-weight: bold;
+   font-style: italic;
+}
+.container {
+    width : 500px;
+}
